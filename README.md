@@ -1,16 +1,39 @@
-## Hi there 👋
+# **JakobLiTe**
 
-<!--
-**JakobLiTe/JakobLiTe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in programming, mainly small web-based projects.  
+Most of what I work on involves JavaScript, simple game mechanics, and experimenting with how far the browser can be pushed without any frameworks.
 
-Here are some ideas to get you started:
+I use GitHub to keep track of personal projects, school assignments, and whatever I build while learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **What I’m Working On**
+- Small HTML/JS games  
+- Experiments with canvas rendering  
+- Basic 2D/3D projection techniques  
+- Improving workflow with VS Code and Git  
+- Building cleaner and more readable code over time  
+
+---
+
+## **Selected Projects**
+**Flying Game (pseudo-3D canvas experiment)**  
+Small browser game using simple projection math, obstacles, movement, and basic UI.  
+*(See repositories for details.)*
+
+**Jakten**  
+Grid-based movement game with basic enemy logic and scoring.
+
+---
+
+## **Skills & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,vscode" />
+</p>
+
+---
+
+## **Goals**
+- Strengthen my understanding of JavaScript  
+- Build a few more complete projects  
+- Learn better structure and patterns  
