@@ -1,10 +1,4 @@
-### Stats
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=JakobLiTe&show_icons=true&theme=catppuccin_macchiato&hide_border=true&bg_color=24273a&title_color=ed8796&icon_color=f5a97f)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakobLiTe&layout=compact&theme=catppuccin_macchiato&hide_border=true&bg_color=24273a&title_color=ed8796)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JakobLiTe&theme=catppuccin-macchiato&hide_border=true&background=24273a)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=littlemrlazy)]
 # **JakobLiTe**
 
 I'm a student interested in programming, mainly small web-based projects.  
