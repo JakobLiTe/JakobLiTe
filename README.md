@@ -1,4 +1,4 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=littlemrlazy)]
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jakoblite)]
 # **JakobLiTe**
 
 I'm a student interested in programming, mainly small web-based projects.  
