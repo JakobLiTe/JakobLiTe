@@ -1,7 +1,11 @@
+### Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=JakobLiTe&show_icons=true&theme=catppuccin_macchiato&hide_border=true&bg_color=24273a&title_color=ed8796&icon_color=f5a97f)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakobLiTe&layout=compact&theme=catppuccin_macchiato&hide_border=true&bg_color=24273a&title_color=ed8796)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JakobLiTe&theme=catppuccin-macchiato&hide_border=true&background=24273a)
 # **JakobLiTe**
-![My Stats](https://github-readme-stats.vercel.app/api?username=LittleMrLazy&show_icons=true&theme=catppuccin_macchiato)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleMrLazy&layout=compact&theme=catppuccin_macchiato)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LittleMrLazy&theme=catppuccin-macchiato)
 
 I'm a student interested in programming, mainly small web-based projects.  
 Most of what I work on involves JavaScript, simple game mechanics, and experimenting with how far the browser can be pushed without any frameworks.
