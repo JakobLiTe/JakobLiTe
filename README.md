@@ -1,5 +1,5 @@
 
-# **JakobLiTe**
+# **Jakob Lien Teigland**
 
 I'm a student interested in programming, mainly small web-based projects.  
 Most of what I work on involves JavaScript, simple game mechanics, and experimenting with how far the browser can be pushed without any frameworks.
